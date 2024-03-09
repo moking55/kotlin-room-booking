@@ -5,20 +5,15 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 
-class MainActivity : AppCompatActivity() {
+class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_register)
 
-        val doLogin = findViewById<View>(R.id.auth_button)
+        val doLogin = findViewById<View>(R.id.label_link_login)
         doLogin.setOnClickListener {
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
-        }
-
-        val doExit = findViewById<View>(R.id.exit_btn)
-        doExit.setOnClickListener {
-            finish()
         }
     }
 }

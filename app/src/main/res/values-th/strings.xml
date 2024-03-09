@@ -5,4 +5,11 @@
     <string name="shutdown_btn">ออกจากแอป</string>
     <string name="label_created_by">สร้างโดย</string>
     <string name="label_author">332 นายเมธาวัฒน์  มหาวัน</string>
+    <string name="hint_login_email">อีเมล์</string>
+    <string name="hint_login_password">รหัสผ่าน</string>
+    <string name="label_create_account">ยังไม่มีบัญชี</string>
+    <string name="label_login">เข้าสู่ระบบ</string>
+    <string name="label_link_create_account">สร้างบัญชีเลย</string>
+    <string name="label_register">สมัครสมาชิก</string>
+    <string name="label_account_exist">มีบัญชีอยู่แล้ว</string>
 </resources>
