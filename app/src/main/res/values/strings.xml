@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hong Pak</string>
+    <string name="login_btn">Login / Register</string>
+    <string name="shutdown_btn">Exit App</string>
+    <string name="label_created_by">Created by</string>
+    <string name="label_author">332 Maythawat  Mahawan</string>
+</resources>

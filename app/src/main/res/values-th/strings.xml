@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hong Pak</string>
+    <string name="login_btn">เข้าสู่ระบบ / สมัครสมาชิก</string>
+    <string name="shutdown_btn">ออกจากแอป</string>
+    <string name="label_created_by">สร้างโดย</string>
+    <string name="label_author">332 นายเมธาวัฒน์  มหาวัน</string>
+</resources>
