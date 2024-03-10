@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Hong Pak</string>
-    <string name="login_btn">เข้าสู่ระบบ / สมัครสมาชิก</string>
-    <string name="shutdown_btn">ออกจากแอป</string>
-    <string name="label_created_by">สร้างโดย</string>
-    <string name="label_author">332 นายเมธาวัฒน์  มหาวัน</string>
     <string name="hint_login_email">อีเมล์</string>
     <string name="hint_login_password">รหัสผ่าน</string>
     <string name="label_create_account">ยังไม่มีบัญชี</string>
@@ -12,4 +8,5 @@
     <string name="label_link_create_account">สร้างบัญชีเลย</string>
     <string name="label_register">สมัครสมาชิก</string>
     <string name="label_account_exist">มีบัญชีอยู่แล้ว</string>
+    <string name="label_hotel_title">ค้นหาโรงแรม</string>
 </resources>
